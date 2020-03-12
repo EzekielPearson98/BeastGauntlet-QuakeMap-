@@ -1,0 +1,7 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: BeastGuantletGreyboxMapp.map
+Output file: BeastGuantletGreyboxMapp.bsp
+
+---- LoadMapFile ----
+************ ERROR ************
+line 6: Token too large

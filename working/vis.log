@@ -1,0 +1,6 @@
+---- vis / ericw-tools v0.18.1 ----
+running with 8 threads
+testlevel = 4
+LoadBSPFile: 'BeastGuantletGreyboxMapp.bsp'
+************ ERROR ************
+Error opening BeastGuantletGreyboxMapp.bsp: No such file or directory
