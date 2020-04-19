@@ -1,0 +1,51 @@
+UDP Initialized
+WIPX_OpenSocket: Address family not
+supported by protocol family
+WIPX_Init: Unable to open control
+socket, IPX disabled
+Exe: 16:04:16 Jun  6 2018
+256.0 megabyte heap
+Video mode 800x600x24 60Hz (24-bit
+z-buffer, 0x FSAA) initialized
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: AMD Radeon R5
+GL_VERSION: 4.5.13497 Compatibility
+Profile Context 23.20.768.12
+FOUND: ARB_vertex_buffer_object
+FOUND: ARB_multitexture
+GL_MAX_TEXTURE_UNITS: 8
+FOUND: ARB_texture_env_combine
+FOUND: ARB_texture_env_add
+FOUND: SDL_GL_SetSwapInterval
+FOUND: EXT_texture_filter_anisotropic
+FOUND: ARB_texture_non_power_of_two
+FOUND: GLSL
+
+Sound Initialization
+SDL audio spec  : 44100 Hz, 1024 samples, 2 channels
+SDL audio driver: directsound - Speakers / Headphones (Realt
+ buffer
+Audio: 16 bit, stereo, 44100 Hz
+CDAudio disabled at compile time
+
+========= Quake Initialized =========
+
+execing quake.rc
+execing default.cfg
+execing config.cfg
+couldn't exec autoexec.cfg
+Mod_LoadTexinfo: 9 texture(s) missing from BSP file
+3 demo(s) in loop
+
+FITZQUAKE 0.85 SERVER (24778 CRC)
+
+
+
+Beast Gauntlet
+Using protocol 666
+Couldn't find a cdrip for track 6
+]con dump
+Unknown command "con"
+]dump
+Unknown command "dump"
+]condump
